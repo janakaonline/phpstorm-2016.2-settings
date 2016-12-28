@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="793e2d2c-0234-4026-8174-ea7c99705ca5" name="medituteHomestead" url="http://meditute.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f741880e-b811-427f-b2d4-3dfd2a10f0bb" name="blog test homestead" url="http://blogtest.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
+
