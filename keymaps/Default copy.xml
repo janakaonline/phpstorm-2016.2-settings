@@ -1,5 +1,13 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
@@ -13,6 +21,10 @@
     <keyboard-shortcut first-keystroke="shift alt f11" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -40,5 +52,6 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="hg4idea.QFold" />
 </keymap>
