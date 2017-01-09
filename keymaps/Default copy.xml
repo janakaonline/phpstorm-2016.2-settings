@@ -5,6 +5,10 @@
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -21,15 +25,14 @@
     <keyboard-shortcut first-keystroke="shift alt f11" />
   </action>
   <action id="IntroduceParameter" />
-  <action id="MethodHierarchy">
-    <keyboard-shortcut first-keystroke="shift ctrl h" />
-    <keyboard-shortcut first-keystroke="ctrl t" />
-  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="PhpMethodHierarchy.BaseOnThisMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt d" />
