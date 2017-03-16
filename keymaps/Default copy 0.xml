@@ -10,9 +10,14 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="hg4idea.QPushAction" />
 </keymap>
