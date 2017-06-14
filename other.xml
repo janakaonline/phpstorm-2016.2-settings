@@ -51,6 +51,6 @@
     <local-interpreter path="C:/Program Files/nodejs/node.exe" />
   </component>
   <component name="PhpRefactoringSettings">
-    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
   </component>
 </application>
