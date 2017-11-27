@@ -1,0 +1,15 @@
+<templateSet group="Vue">
+  <template name="vcom" value="&lt;template&gt;&#10;$END$&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;    export default {        &#10;        props: {            &#10;        },&#10;        data(){&#10;            return {&#10;            &#10;            }&#10;        },&#10;        methods: {&#10;        }&#10;    }&#10;&lt;/script&gt;" description="Vue component boilerplate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="Bash" value="false" />
+      <option name="PHP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
